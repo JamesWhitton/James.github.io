@@ -23,8 +23,8 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	border-width: 0px;
-	background-image: url(../Images/Capture.PNG);
 	background-repeat: repeat-x;
+	background-image: url(../Images/Capture.PNG);
 }
 /*Navbar Start*/
 #menu-bar {
@@ -32,6 +32,7 @@ body {
   margin: 0px 0px 0px 0px;  
   padding: 6px 6px 4px 6px;
   height: 65px;
+  overflow: hidden;
   line-height: 100%;
   border-radius: 0px;
   -webkit-border-radius: 0px;
